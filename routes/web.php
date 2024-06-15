@@ -6,11 +6,23 @@ Route::get('/', function () {
     return 'Main page';
 });
 
-Route::get('/hello', function () {
+Route::get('/xx', function () {
 return 'Hello, world!';
+})->name('hello');
+//name atribui o nome para a rota
+
+//redirecionamento
+Route::get('/hallo', function () {
+//    return redirect(('/hello'));
+return redirect()->route('hello');
 });
 
 //adicionando partes dinamicas para as rotas. nesse caso, o nome.
 Route::get('/greet/{name}', function ($name) {
     return 'Hello ' . $name . '!';
+});
+
+//fallback define um retorno para rotas não existentes no projeto.
+Route::fallback(function () {
+    return 'Still got somewhere!';
 });
