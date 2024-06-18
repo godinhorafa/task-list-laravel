@@ -34,8 +34,9 @@ Access the application via the browser at http://localhost.
 ![image](https://github.com/godinhorafa/task-list-laravel/assets/63462531/69c196c0-dd19-4016-bf59-3024947a01e2)
 
 tasks/{id}/edit
-![image](https://github.com/godinhorafa/task-list-laravel/assets/63462531/e56d8d9e-c196-4432-b4ac-b6c3f78aa2e6)
+![image](https://github.com/godinhorafa/task-list-laravel/assets/63462531/77282cc2-2603-41e4-bba9-da69235ecf06)
 
+-------------------------------------
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
