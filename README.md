@@ -1,4 +1,4 @@
-# Task List using Laravel, Blade, Tailwind CSS, and Alpine.js
+# Simple Task List using Laravel, Blade, Tailwind CSS, and Alpine.js
 This project implements a task list application using the Laravel framework along with Blade for templating, Tailwind CSS for styling, and Alpine.js for frontend interactivity. The database is configured with MySQL using Docker Compose.
 
 ## Key Features:
@@ -23,6 +23,12 @@ To run the project locally, ensure Docker and Docker Compose are installed. Clon
 docker-compose up -d
 ```
 Access the application via the browser at http://localhost.
+
+
+![image](https://github.com/godinhorafa/task-list-laravel/assets/63462531/f1f97dbf-75cf-4d60-b5a5-ec3733d5ffda)
+![image](https://github.com/godinhorafa/task-list-laravel/assets/63462531/3ec4c35c-aac7-46f3-9927-d71fb56024ef)
+![image](https://github.com/godinhorafa/task-list-laravel/assets/63462531/69c196c0-dd19-4016-bf59-3024947a01e2)
+![image](https://github.com/godinhorafa/task-list-laravel/assets/63462531/e56d8d9e-c196-4432-b4ac-b6c3f78aa2e6)
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
